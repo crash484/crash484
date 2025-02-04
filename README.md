@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crash484
+- 👋 Hi, I’m Shashwat
 - 👀 I’m interested in making anything that aligns with my interests
 - 🌱 I’m currently learning webDevelopment
 - 💞️ I’m looking to collaborate on any projects
