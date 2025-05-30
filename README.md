@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 CS Undergrad | Pre-final year
-- 💼 Interning at [Zidio](https://zidio.in)
+- 💼 Web dev intern at Zidio
 - 🌱 Learning **AI/ML** and **Cloud Computing**
 - 💬 Ask me about: JavaScript, TypeScript, MERN, Spring Boot, Java, Python
 - ✨ I love building clean UI/UX and scalable systems
