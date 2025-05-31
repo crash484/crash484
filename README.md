@@ -46,7 +46,7 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="www.linkedin.com/in/shashwat-jain-0827a8251/" target="_blank">
+  <a href="https://www.linkedin.com/in/shashwat-jain-0827a8251/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
   <a href="mailto:jshashwat032@gmail.com">
